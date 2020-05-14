@@ -1,1 +1,1 @@
-Lake temperature data. NB. You only need Surface Lake Temperatures to run seml. You can assume the temperature is uniform in depth.
+Lake temperature data. NB. You only need Surface Lake Temperatures to run seml. You can assume the temperature is uniform in depth. However, if you do that, mixed layer depth and Lake number calculations will not be relevant.
