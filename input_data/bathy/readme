@@ -1,1 +1,2 @@
 Hypsographic curve (depth-area). This can be fake data, since it is only used to compute Lake numbers. 
+Do not expect good Lake number values if this input data is not real.
